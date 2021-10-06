@@ -3,9 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "description": "Small description for empress-blog-casper goes here",
-  "repository": "",
+  "repository": "https://github.com/empress/empress-blog-netlify-casper-template",
   "license": "MIT",
-  "author": "",
+  "author": "Chris Manson - https://twitter.com/real_ate",
   "directories": {
     "doc": "doc",
     "test": "tests"
